@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'LeeSeoyun';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/heungkuk/LeeSeoyun.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/heungkuk/LeeSeoyun.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/heungkuk/LeeSeoyun.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/heungkuk/LeeSeoyun.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/heungkuk/LeeSeoyun.ttf') format("truetype");
+    font-display: swap;
+} 
